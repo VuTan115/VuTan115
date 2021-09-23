@@ -4,7 +4,7 @@
 
 ### Hi there 👋 I'm Vu Cao Tan,
 
-- 🔭 I’m currently working on:
+<!-- - 🔭 I’m currently working on:
 - 	- [X] FrontEnd Developer
 	- [X] Flutter Developer
 	- [ ] Fullstack Developer
@@ -12,7 +12,7 @@
 	- [ ] Brse 
 
 - :bulb: I'm interested in : **Passion for learning Technology**
-- 🌱 I’m currently pursuing **Fullstack Developer**.
+- 🌱 I’m currently pursuing **Fullstack Developer**. -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VuTan115&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VuTan115&layout=compact)
