@@ -15,15 +15,9 @@
 🌱 I’m currently pursuing **Fullstack Developer**.
 
 
-<div style="display:flex; flex-direction:row; gap:30px; justify-content: center;">
- <div>
- <a href="https://app.daily.dev/VuTan115"><img src="https://api.daily.dev/devcards/fe2c1fe38eb34d19976483da0dcff1f3.png?r=oc0"  width="380" alt="Vũ Cao Tân's Dev Card"/></a>
- </div>
-  <div style="display:flex; flex-direction: column; justify-content: center; gap:40px">
-    <img src="https://github-readme-stats.vercel.app/api?username=VuTan115&show_icons=true&theme=radical"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VuTan115&layout=compact"/>
-  </div>
-</div>
+[![Vũ Cao Tân's Dev Card](https://api.daily.dev/devcards/fe2c1fe38eb34d19976483da0dcff1f3.png?r=oc0)](https://app.daily.dev/VuTan115)
+
+![](https://github-readme-stats.vercel.app/api?username=VuTan115&show_icons=true&theme=radical) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VuTan115&layout=compact)
 
 <!-- ### My skills include
 
