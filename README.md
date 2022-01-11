@@ -9,19 +9,22 @@
 	- [X] Flutter Developer
 	- [ ] Fullstack Developer
 	- [ ] Tech Lead 
-	- [ ] Brse 
+	- [ ] Brse  -->
 
-- :bulb: I'm interested in : **Passion for learning Technology**
-- 🌱 I’m currently pursuing **Fullstack Developer**. -->
+<!-- - bulb: I'm interested in : **Passion for learning Technology** -->
+🌱 I’m currently pursuing **Fullstack Developer**.
 
-	
-<a href="https://app.daily.dev/VuTan115"><img src="https://api.daily.dev/devcards/fe2c1fe38eb34d19976483da0dcff1f3.png?r=oc0" width="400" alt="Vũ Cao Tân's Dev Card"/></a> 
-<table>
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=VuTan115&show_icons=true&theme=radical"/></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VuTan115&layout=compact"/></td>
-  </tr>
-</table>
+
+<div style="display:flex; flex-direction:row; gap:30px; justify-content: center;">
+ <div>
+ <a href="https://app.daily.dev/VuTan115"><img src="https://api.daily.dev/devcards/fe2c1fe38eb34d19976483da0dcff1f3.png?r=oc0"  width="380" alt="Vũ Cao Tân's Dev Card"/></a>
+ </div>
+  <div style="display:flex; flex-direction: column; justify-content: center; gap:40px">
+    <img src="https://github-readme-stats.vercel.app/api?username=VuTan115&show_icons=true&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VuTan115&layout=compact"/>
+  </div>
+</div>
+
 <!-- ### My skills include
 
 <p align="center">
