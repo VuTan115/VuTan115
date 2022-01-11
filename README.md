@@ -14,7 +14,7 @@
 - :bulb: I'm interested in : **Passion for learning Technology**
 - 🌱 I’m currently pursuing **Fullstack Developer**. -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VuTan115&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VuTan115&show_icons=true&theme=radical) <a href="https://app.daily.dev/VuTan115"><img src="https://api.daily.dev/devcards/fe2c1fe38eb34d19976483da0dcff1f3.png?r=oc0" width="400" alt="Vũ Cao Tân's Dev Card"/></a>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VuTan115&layout=compact)
 
 <!-- ### My skills include
