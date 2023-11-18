@@ -17,7 +17,7 @@
 
 <!-- [![Vũ Cao Tân's Dev Card](https://api.daily.dev/devcards/fe2c1fe38eb34d19976483da0dcff1f3.png?r=oc0)](https://app.daily.dev/VuTan115) -->
 
-![](https://github-readme-stats.vercel.app/api?username=VuTan115&show_icons=true&theme=radical) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VuTan115&layout=compact)
+
 
 <!-- ### My skills include
 
